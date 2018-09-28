@@ -25,6 +25,6 @@
     "eslint-plugin-prettier": "2.6.2",
     "eslint-plugin-react": "7.10.0",
     "eslint-plugin-vue": "4.7.1",
-    "prettier": "1.14.2"
+    "prettier": "1.14.3"
   }
 }
