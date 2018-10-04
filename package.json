@@ -19,7 +19,7 @@
     "commitmsg": "commitlint -e $GIT_PARAMS"
   },
   "devDependencies": {
-    "lerna": "2.11.0"
+    "lerna": "3.4.1"
   },
   "commitlint": {
     "extends": [
